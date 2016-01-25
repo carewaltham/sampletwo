@@ -13,15 +13,12 @@
 			<scope>test</scope>
 		</dependency>
 		 <dependency>
-           <groupId>com.saucelabs</groupId>
-           <artifactId>saucerest</artifactId>
-           <version>1.0.25</version>
-       </dependency>
-       <dependency>
-           <groupId>com.saucelabs</groupId>
-           <artifactId>saucerest</artifactId>
-           <version>1.0.25</version>
-       </dependency>
+	<groupId>com.saucelabs</groupId>
+	<artifactId>sauce-rest-api</artifactId>
+	<version>1.1</version>
+</dependency>
+
+     
        <dependency>
            <groupId>org.testng</groupId>
            <artifactId>testng</artifactId>
